@@ -322,7 +322,7 @@
                 "text": "*Shift*",
                 "width": "110",
                 "sp": "1",
-                "nextlayer": "shift"
+                "nextlayer": "default"
               },
               {
                 "id": "U_0304",
@@ -939,7 +939,7 @@
                 "text": "*Shift*",
                 "width": "110",
                 "sp": "1",
-                "nextlayer": "shift"
+                "nextlayer": "default"
               },
               {
                 "id": "U_0304",
