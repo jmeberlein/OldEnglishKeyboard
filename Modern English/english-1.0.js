@@ -1,0 +1,1 @@
+KeymanWeb.KR(new Keyboard_english());function Keyboard_english(){this.KI="Keyboard_english";this.KN="English";this.KV=null;this.KH='';this.KM=0;this.KBVER="1.0";this.KVER="9.0.523.0";this.gs=function(t,e) {return this.g0(t,e);};this.g0=function(t,e) {var k=KeymanWeb,r=0,m=0;return r;};}
