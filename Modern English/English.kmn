@@ -1,0 +1,9 @@
+﻿store(&VERSION) '9.0'
+store(&TARGETS) 'iphone androidphone mobile'
+store(&WINDOWSLANGUAGES) 'x0409'
+store(&LAYOUTFILE) 'Untitled-layout.js'
+store(&NAME) 'English'
+begin Unicode > use(main)
+
+
+group(main) using keys
