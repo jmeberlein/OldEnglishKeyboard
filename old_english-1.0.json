@@ -1,8 +1,8 @@
 ﻿{
   "options" : {
     "device" : "any",
-    "keyboardBaseUri" : "http://your-host-here/keyboard-path/",
-    "fontBaseUri" : "http://your-host-here/font-path/"
+    "keyboardBaseUri" : "https://raw.githubusercontent.com/jmeberlein/OldEnglishKeyboard/master/",
+    "fontBaseUri" : "https://raw.githubusercontent.com/jmeberlein/OldEnglishKeyboard/master/"
   },
   "keyboard" : {
     "id" : "old_english",
