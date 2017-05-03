@@ -1,0 +1,9 @@
+﻿store(&VERSION) '9.0'
+store(&TARGETS) 'iphone androidphone mobile'
+store(&LAYOUTFILE) 'modern_english-layout.js'
+store(&NAME) 'Quenya'
+store(&ETHNOLOGUECODE) 'qya'
+begin Unicode > use(main)
+
+
+group(main) using keys

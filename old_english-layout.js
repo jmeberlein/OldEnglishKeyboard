@@ -1,4 +1,4 @@
-﻿{
+{
   "phone": {
     "font": "Tahoma",
     "layer": [
@@ -298,44 +298,53 @@
             "key": [
               {
                 "id": "K_1",
-                "text": "!"  
+                "text": "!",
                 "nextlayer": "default"
               },
               {
                 "id": "K_2",
-                "text": "@"
+                "text": "@",
+                "nextlayer": "default"
               },
               {
                 "id": "K_3",
-                "text": "#"
+                "text": "#",
+                "nextlayer": "default"
               },
               {
                 "id": "K_4",
-                "text": "$"
+                "text": "$",
+                "nextlayer": "default"
               },
               {
                 "id": "K_5",
-                "text": "%"
+                "text": "%",
+                "nextlayer": "default"
               },
               {
                 "id": "K_6",
-                "text": "^"
+                "text": "^",
+                "nextlayer": "default"
               },
               {
                 "id": "K_7",
-                "text": "&"
+                "text": "&",
+                "nextlayer": "default"
               },
               {
                 "id": "K_8",
-                "text": "*"
+                "text": "*",
+                "nextlayer": "default"
               },
               {
                 "id": "K_9",
-                "text": "("
+                "text": "(",
+                "nextlayer": "default"
               },
               {
                 "id": "K_0",
-                "text": ")"
+                "text": ")",
+                "nextlayer": "default"
               }
             ]
           },
@@ -345,55 +354,67 @@
               {
                 "id": "K_W",
                 "text": "W",
-                "pad": ""
+                "pad": "",
+                "nextlayer": "default"
               },
               {
                 "id": "K_E",
-                "text": "E"
+                "text": "E",
+                "nextlayer": "default"
               },
               {
                 "id": "K_R",
-                "text": "R"
+                "text": "R",
+                "nextlayer": "default"
               },
               {
                 "id": "K_T",
-                "text": "T"
+                "text": "T",
+                "nextlayer": "default"
               },
               {
                 "id": "K_Y",
-                "text": "Y"
+                "text": "Y",
+                "nextlayer": "default"
               },
               {
                 "id": "K_U",
                 "text": "U",
+                "nextlayer": "default",
                 "sk": [
                   {
                     "text": "V",
-                    "id": "K_V"
+                    "id": "K_V",
+                    "nextlayer": "default"
                   }
                 ]
               },
               {
                 "id": "K_I",
                 "text": "I",
+                "nextlayer": "default",
                 "sk": [
                   {
                     "text": "J",
-                    "id": "K_J"
+                    "id": "K_J",
+                    "nextlayer": "default"
                   }
                 ]
               },
               {
                 "id": "K_O",
-                "text": "O"
+                "text": "O",
+                "nextlayer": "default"
               },
               {
                 "id": "K_P",
-                "text": "P"
+                "text": "P",
+                "nextlayer": "default"
               },
               {
                 "id": "U_003A",
-                "text": ":"
+                "text": ":",
+                "nextlayer": "default"
               }
             ]
           },
@@ -403,59 +424,72 @@
               {
                 "id": "K_A",
                 "text": "A",
-                "pad": ""
+                "pad": "",
+                "nextlayer": "default"
               },
               {
                 "id": "K_S",
                 "text": "S",
+                "nextlayer": "default",
                 "sk": [
                   {
                     "text": "Z",
-                    "id": "K_Z"
+                    "id": "K_Z",
+                    "nextlayer": "default"
                   }
                 ]
               },
               {
                 "id": "K_D",
-                "text": "D"
+                "text": "D",
+                "nextlayer": "default"
               },
               {
                 "id": "U_00D0",
-                "text": "Ð"
+                "text": "Ð",
+                "nextlayer": "default"
               },
               {
                 "id": "K_F",
-                "text": "F"
+                "text": "F",
+                "nextlayer": "default"
               },
               {
                 "id": "K_G",
-                "text": "G"
+                "text": "G",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
-                "text": "H"
+                "text": "H",
+                "nextlayer": "default"
               },
               {
                 "id": "K_C",
                 "text": "C",
+                "nextlayer": "default",
                 "sk": [
                   {
                     "text": "K",
-                    "id": "K_K"
+                    "id": "K_K",
+                    "nextlayer": "default"
                   },
                   {
                     "text": "Q",
-                    "id": "K_Q"
+                    "id": "K_Q",
+                    "nextlayer": "default"
                   }
                 ]
               },
               {
                 "id": "K_L",
-                "text": "L"
+                "text": "L",
+                "nextlayer": "default"
               },
               {
                 "id": "U_0022",
-                "text": "\""
+                "text": "\"",
+                "nextlayer": "default"
               }
             ]
           },
@@ -472,72 +506,89 @@
               {
                 "id": "U_0304",
                 "text": "¯",
+                "nextlayer": "default",
                 "sk": [
                   {
                     "id": "U_0307",
-                    "text": "·"
+                    "text": "·",
+                    "nextlayer": "default"
                   }
                 ]
               },
               {
                 "id": "U_00C6",
-                "text": "Æ"
+                "text": "Æ",
+                "nextlayer": "default"
               },
               {
                 "id": "K_X",
-                "text": "X"
+                "text": "X",
+                "nextlayer": "default"
               },
               {
                 "id": "U_00DE",
-                "text": "Þ"
+                "text": "Þ",
+                "nextlayer": "default"
               },
               {
                 "id": "K_B",
-                "text": "B"
+                "text": "B",
+                "nextlayer": "default"
               },
               {
                 "id": "K_N",
-                "text": "N"
+                "text": "N",
+                "nextlayer": "default"
               },
               {
                 "id": "K_M",
-                "text": "M"
+                "text": "M",
+                "nextlayer": "default"
               },
               {
                 "id": "K_COMMA",
                 "text": ",",
+                "nextlayer": "default",
                 "sk": [
                   {
                     "text": ",",
-                    "id": "U_002C"
+                    "id": "U_002C",
+                    "nextlayer": "default"
                   },
                   {
                     "text": "!",
-                    "id": "U_0021"
+                    "id": "U_0021",
+                    "nextlayer": "default"
                   },
                   {
                     "text": "?",
-                    "id": "U_003F"
+                    "id": "U_003F",
+                    "nextlayer": "default"
                   },
                   {
                     "text": "'",
-                    "id": "U_0027"
+                    "id": "U_0027",
+                    "nextlayer": "default"
                   },
                   {
                     "text": "\"",
-                    "id": "U_0022"
+                    "id": "U_0022",
+                    "nextlayer": "default"
                   },
                   {
                     "text": "\\",
-                    "id": "U_005C"
+                    "id": "U_005C",
+                    "nextlayer": "default"
                   },
                   {
                     "text": ":",
-                    "id": "U_003A"
+                    "id": "U_003A",
+                    "nextlayer": "default"
                   },
                   {
                     "text": ";",
-                    "id": "U_003B"
+                    "id": "U_003B",
+                    "nextlayer": "default"
                   }
                 ]
               },
@@ -545,7 +596,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "width": "",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -569,13 +621,15 @@
                 "id": "K_SPACE",
                 "text": "",
                 "width": "630",
-                "sp": "0"
+                "sp": "0",
+                "nextlayer": "default"
               },
               {
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "width": "140",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
