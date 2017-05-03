@@ -72,23 +72,37 @@ function Keyboard_modern_english()
               },
               {
                 "id": "K_W",
-                "text": "w"
+                "text": "w",
+                "sk": [
+                  {
+                    "text": "ẃ",
+                    "id": "U_1E83"
+                  }
+                ]
               },
               {
                 "id": "K_E",
                 "text": "e",
                 "sk": [
                   {
+                    "text": "è",
                     "id": "U_00E8"
                   },
                   {
+                    "text": "é",
                     "id": "U_00E9"
                   },
                   {
+                    "text": "ê",
                     "id": "U_00EA"
                   },
                   {
+                    "text": "ë",
                     "id": "U_00EB"
+                  },
+                  {
+                    "text": "ē",
+                    "id": "U_0113"
                   }
                 ]
               },
@@ -110,7 +124,12 @@ function Keyboard_modern_english()
                 "text": "y",
                 "sk": [
                   {
+                    "text": "ý",
                     "id": "U_00FD"
+                  },
+                  {
+                    "text": "ȳ",
+                    "id": "U_0233"
                   }
                 ]
               },
@@ -119,16 +138,40 @@ function Keyboard_modern_english()
                 "text": "u",
                 "sk": [
                   {
+                    "text": "ù",
                     "id": "U_00F9"
                   },
                   {
+                    "text": "ú",
                     "id": "U_00FA"
                   },
                   {
+                    "text": "û",
                     "id": "U_00FB"
                   },
                   {
+                    "text": "ū",
+                    "id": "U_016B"
+                  },
+                  {
+                    "text": "ü",
                     "id": "U_00FC"
+                  },
+                  {
+                    "text": "ǖ",
+                    "id": "U_01D6"
+                  },
+                  {
+                    "text": "ǘ",
+                    "id": "U_01D8"
+                  },
+                  {
+                    "text": "ǚ",
+                    "id": "U_01DA"
+                  },
+                  {
+                    "text": "ǜ",
+                    "id": "U_01DC"
                   }
                 ]
               },
@@ -137,16 +180,28 @@ function Keyboard_modern_english()
                 "text": "i",
                 "sk": [
                   {
+                    "text": "ì",
                     "id": "U_00EC"
                   },
                   {
+                    "text": "í",
                     "id": "U_00ED"
                   },
                   {
+                    "text": "î",
                     "id": "U_00EE"
                   },
                   {
+                    "text": "ï",
                     "id": "U_00EF"
+                  },
+                  {
+                    "text": "ī",
+                    "id": "U_012B"
+                  },
+                  {
+                    "text": "ı",
+                    "id": "U_0131"
                   }
                 ]
               },
@@ -155,21 +210,31 @@ function Keyboard_modern_english()
                 "text": "o",
                 "sk": [
                   {
+                    "text": "ò",
                     "id": "U_00F2"
                   },
                   {
+                    "text": "ó",
                     "id": "U_00F3"
                   },
                   {
+                    "text": "ô",
                     "id": "U_00F4"
                   },
                   {
+                    "text": "õ",
                     "id": "U_00F5"
                   },
                   {
+                    "text": "ö",
                     "id": "U_00F6"
                   },
                   {
+                    "text": "ō",
+                    "id": "U_014D"
+                  },
+                  {
+                    "text": "ø",
                     "id": "U_00F8"
                   }
                 ]
@@ -193,25 +258,40 @@ function Keyboard_modern_english()
                 "pad": "",
                 "sk": [
                   {
+                    "text": "à",
                     "id": "U_00E0"
                   },
                   {
+                    "text": "á",
                     "id": "U_00E1"
                   },
                   {
+                    "text": "â",
                     "id": "U_00E2"
                   },
                   {
+                    "text": "ã",
                     "id": "U_00E3"
                   },
                   {
+                    "text": "ä",
                     "id": "U_00E4"
                   },
                   {
+                    "text": "ā",
+                    "id": "U_0101"
+                  },
+                  {
+                    "text": "å",
                     "id": "U_00E5"
                   },
                   {
+                    "text": "æ",
                     "id": "U_00E6"
+                  },
+                  {
+                    "text": "ǣ",
+                    "id": "U_01E3"
                   }
                 ]
               },
@@ -239,7 +319,13 @@ function Keyboard_modern_english()
               },
               {
                 "id": "K_G",
-                "text": "g"
+                "text": "g",
+                "sk": [
+                  {
+                    "text": "ġ",
+                    "id": "U_0121"
+                  }
+                ]
               },
               {
                 "id": "K_H",
@@ -290,7 +376,12 @@ function Keyboard_modern_english()
                 "text": "c",
                 "sk": [
                   {
+                    "text": "ç",
                     "id": "U_00E7"
+                  },
+                  {
+                    "text": "ċ",
+                    "id": "U_010B"
                   }
                 ]
               },
@@ -496,7 +587,13 @@ function Keyboard_modern_english()
               },
               {
                 "id": "K_W",
-                "text": "W"
+                "text": "W",
+                "sk": [
+                  {
+                    "text": "Ẃ",
+                    "id": "U_1E82"
+                  }
+                ]
               },
               {
                 "id": "K_E",
@@ -517,6 +614,10 @@ function Keyboard_modern_english()
                   {
                     "text": "Ë",
                     "id": "U_00CB"
+                  },
+                  {
+                    "text": "Ē",
+                    "id": "U_0112"
                   }
                 ]
               },
@@ -541,6 +642,10 @@ function Keyboard_modern_english()
                   {
                     "text": "Ý",
                     "id": "U_00DD"
+                  },
+                  {
+                    "text": "Ȳ",
+                    "id": "U_0232"
                   }
                 ]
               },
@@ -559,6 +664,10 @@ function Keyboard_modern_english()
                   {
                     "text": "Û",
                     "id": "U_00DB"
+                  },
+                  {
+                    "text": "Ū",
+                    "id": "U_016A"
                   },
                   {
                     "text": "Ü",
@@ -585,6 +694,14 @@ function Keyboard_modern_english()
                   {
                     "text": "Ï",
                     "id": "U_00CF"
+                  },
+                  {
+                    "text": "Ī",
+                    "id": "U_012A"
+                  },
+                  {
+                    "text": "İ",
+                    "id": "U_0130"
                   }
                 ]
               },
@@ -611,6 +728,10 @@ function Keyboard_modern_english()
                   {
                     "text": "Ö",
                     "id": "U_00D6"
+                  },
+                  {
+                    "text": "Ō",
+                    "id": "U_014C"
                   },
                   {
                     "text": "Ø",
@@ -657,12 +778,20 @@ function Keyboard_modern_english()
                     "id": "U_00C4"
                   },
                   {
+                    "text": "Ā",
+                    "id": "U_0100"
+                  },
+                  {
                     "text": "Å",
                     "id": "U_00C5"
                   },
                   {
                     "text": "Æ",
                     "id": "U_00C6"
+                  },
+                  {
+                    "text": "Ǣ",
+                    "id": "U_01E2"
                   }
                 ]
               },
@@ -686,7 +815,13 @@ function Keyboard_modern_english()
               },
               {
                 "id": "K_G",
-                "text": "G"
+                "text": "G",
+                "sk": [
+                  {
+                    "text": "Ġ",
+                    "id": "U_0120"
+                  }
+                ]
               },
               {
                 "id": "K_H",
@@ -745,6 +880,10 @@ function Keyboard_modern_english()
                   {
                     "text": "Ç",
                     "id": "U_00C7"
+                  },
+                  {
+                    "text": "Ċ",
+                    "id": "U_010A"
                   }
                 ]
               },
