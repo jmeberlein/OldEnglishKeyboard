@@ -290,6 +290,10 @@ function Keyboard_modern_english()
                     "id": "U_00E6"
                   },
                   {
+                    "text": "ǽ",
+                    "id": "U_01FD"
+                  },
+                  {
                     "text": "ǣ",
                     "id": "U_01E3"
                   }
@@ -788,6 +792,10 @@ function Keyboard_modern_english()
                   {
                     "text": "Æ",
                     "id": "U_00C6"
+                  },
+                  {
+                    "text": "Ǽ",
+                    "id": "U_01FC"
                   },
                   {
                     "text": "Ǣ",
