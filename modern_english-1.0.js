@@ -825,6 +825,17 @@ function Keyboard_modern_english()
             "id": 1,
             "key": [
               {
+                "id": "T_new_83",
+                "text": "",
+                "width": "1045",
+                "sp": "10"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
                 "id": "U_005B",
                 "text": "["
               },
@@ -867,7 +878,7 @@ function Keyboard_modern_english()
             ]
           },
           {
-            "id": 2,
+            "id": 3,
             "key": [
               {
                 "id": "K_HYPHEN",
@@ -935,7 +946,7 @@ function Keyboard_modern_english()
             ]
           },
           {
-            "id": 3,
+            "id": 4,
             "key": [
               {
                 "id": "U_00A9",
@@ -984,7 +995,7 @@ function Keyboard_modern_english()
             ]
           },
           {
-            "id": 4,
+            "id": 5,
             "key": [
               {
                 "id": "K_LOWER",

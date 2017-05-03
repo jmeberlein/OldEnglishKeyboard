@@ -9,11 +9,11 @@
     "name" : "Quenya",
     "filename" : "modern_english-1.0.js",
     "version" : "1.0",
-    "lastModified" : "2017-05-03T13:11:09.522-05:00",
+    "lastModified" : "2017-05-03T13:17:34.452-05:00",
     "languages" : [
       {
-        "id" : "qya",
-        "name" : "Quenya"
+        "id" : "en",
+        "name" : "English"
       }
       ]
   }
