@@ -501,7 +501,8 @@
               },
               {
                 "id": "T_ACCENT",
-                "text": "¯"
+                "text": "¯",
+                "layer": "default"
               },
               {
                 "id": "U_00C6",
@@ -1070,7 +1071,8 @@
               },
               {
                 "id": "T_ACCENT",
-                "text": "¯"
+                "text": "¯",
+                "layer": "default"
               },
               {
                 "id": "U_00C6",
