@@ -1,0 +1,20 @@
+{
+  "options" : {
+    "device" : "any",
+    "keyboardBaseUri" : "http://your-host-here/keyboard-path/",
+    "fontBaseUri" : "http://your-host-here/font-path/"
+  },
+  "keyboard" : {
+    "id" : "aenglisc",
+    "name" : "\u00C6nglisc",
+    "filename" : "aenglisc-1.0.js",
+    "version" : "1.0",
+    "lastModified" : "2017-05-05T14:53:52+00:00",
+    "languages" : [
+      {
+        "id" : "ang",
+        "name" : "ang"
+      }
+      ]
+  }
+}

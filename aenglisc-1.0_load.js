@@ -1,0 +1,1 @@
+KeymanWeb.KRS(new Stub_Keyboard_aenglisc()); function Stub_Keyboard_aenglisc() {this.KF="aenglisc-1.0.js";this.KI="Keyboard_aenglisc";this.KN="Ænglisc";}

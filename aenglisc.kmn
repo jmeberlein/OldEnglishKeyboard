@@ -1,0 +1,14 @@
+﻿store(&VERSION) '9.0'
+store(&TARGETS) 'iphone ipad androidphone androidtablet mobile tablet'
+store(&LAYOUTFILE) 'aenglisc-layout.js'
+store(&NAME) 'Ænglisc'
+store(&ETHNOLOGUECODE) 'ang'
+begin Unicode > use(main)
+
+
+group(main) using keys
+store(plain) "aæeıiouycgAÆEIOUYCG"
+store(accented) "āǣēīīōūȳċġĀǢĒĪŌŪȲĊĠ"
+any(plain) + [T_ACCENT] > index(accented,1)
+"ᵹ" + [T_ACCENT] > "ᵹ" U+0307 
+"Ᵹ" + [T_ACCENT] > "Ᵹ" U+0307 

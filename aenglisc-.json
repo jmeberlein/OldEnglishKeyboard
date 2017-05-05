@@ -1,15 +1,14 @@
 ﻿{
   "options" : {
-    "device" : "any",
     "keyboardBaseUri" : "https://raw.githubusercontent.com/jmeberlein/OldEnglishKeyboard/master/",
     "fontBaseUri" : "https://raw.githubusercontent.com/jmeberlein/OldEnglishKeyboard/master/"
   },
   "keyboard" : {
-    "id" : "old_english",
-    "name" : "Old English",
-    "filename" : "old_english-1.0.js",
+    "id" : "aenglisc",
+    "name" : "\u00C6nglisc",
+    "filename" : "aenglisc-1.0.js",
     "version" : "1.0",
-    "lastModified" : "2017-05-05T14:46:44.707-05:00",
+    "lastModified" : "2017-05-05T14:53:49.551-05:00",
     "languages" : [
       {
         "id" : "ang",
