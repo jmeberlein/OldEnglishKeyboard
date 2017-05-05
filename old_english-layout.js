@@ -9,6 +9,11 @@
             "id": 1,
             "key": [
               {
+                "id": "T_dotless",
+                "text": "ı",
+                "sp": "2"
+              },
+              {
                 "id": "K_1",
                 "text": "1"
               },
@@ -47,16 +52,17 @@
               {
                 "id": "K_0",
                 "text": "0"
-              },
-              {
-                "id": "T_dotless",
-                "text": "ı"
               }
             ]
           },
           {
             "id": 2,
             "key": [
+              {
+                "id": "T_macron",
+                "text": "á",
+                "sp": "2"
+              },
               {
                 "id": "K_W",
                 "text": "w"
@@ -108,16 +114,17 @@
               {
                 "id": "U_003B",
                 "text": ";"
-              },
-              {
-                "id": "T_macron",
-                "text": "á"
               }
             ]
           },
           {
             "id": 3,
             "key": [
+              {
+                "id": "T_insular",
+                "text": "ᵹ",
+                "sp": "2"
+              },
               {
                 "id": "K_A",
                 "text": "a"
@@ -173,16 +180,17 @@
               {
                 "id": "U_0027",
                 "text": "'"
-              },
-              {
-                "id": "T_insular",
-                "text": "ᵹ"
               }
             ]
           },
           {
             "id": 4,
             "key": [
+              {
+                "id": "T_wynn",
+                "text": "ƿ",
+                "sp": "2"
+              },
               {
                 "id": "U_005B",
                 "text": "["
@@ -260,10 +268,6 @@
               {
                 "id": "U_0040",
                 "text": "@"
-              },
-              {
-                "id": "T_wynn",
-                "text": "ƿ"
               }
             ]
           },
@@ -311,6 +315,11 @@
           {
             "id": 1,
             "key": [
+              {
+                "id": "T_dotless",
+                "text": "ı",
+                "sp": "2"
+              },
               {
                 "id": "K_1",
                 "text": "!",
@@ -360,17 +369,17 @@
                 "id": "K_0",
                 "text": ")",
                 "nextlayer": "default"
-              },
-              {
-                "id": "T_dotless",
-                "text": "ı/i",
-                "sp": "1"
               }
             ]
           },
           {
             "id": 2,
             "key": [
+              {
+                "id": "T_macron",
+                "text": "á",
+                "sp": "2"
+              },
               {
                 "id": "K_W",
                 "text": "W",
@@ -435,17 +444,17 @@
                 "id": "U_003A",
                 "text": ":",
                 "nextlayer": "default"
-              },
-              {
-                "id": "T_macron",
-                "text": "á/ā",
-                "sp": "1"
               }
             ]
           },
           {
             "id": 3,
             "key": [
+              {
+                "id": "T_insular",
+                "text": "ᵹ",
+                "sp": "2"
+              },
               {
                 "id": "K_A",
                 "text": "A",
@@ -515,17 +524,17 @@
                 "id": "U_0022",
                 "text": "\"",
                 "nextlayer": "default"
-              },
-              {
-                "id": "T_insular",
-                "text": "g/ᵹ",
-                "sp": "1"
               }
             ]
           },
           {
             "id": 4,
             "key": [
+              {
+                "id": "T_wynn",
+                "text": "ƿ",
+                "sp": "2"
+              },
               {
                 "id": "U_005D",
                 "text": "]"
@@ -571,13 +580,6 @@
               {
                 "id": "U_003F",
                 "text": "?"
-              },
-              {
-                "id": "T_wynn",
-                "text": "w/ƿ",
-                "width": "",
-                "sp": "1",
-                "nextlayer": "default"
               }
             ]
           },
