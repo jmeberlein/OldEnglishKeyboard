@@ -496,7 +496,8 @@
               {
                 "id": "K_SHIFT",
                 "text": "*Shifted*",
-                "sp": "2"
+                "sp": "2",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ACCENT",
@@ -1064,7 +1065,8 @@
               {
                 "id": "K_SHIFT",
                 "text": "*Shifted*",
-                "sp": "2"
+                "sp": "2",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ACCENT",
