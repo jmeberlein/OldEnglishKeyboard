@@ -188,10 +188,10 @@
             "id": 4,
             "key": [
               {
-                "id": "T_ALT",
-                "text": "*Alt*",
+                "id": "K_SHIFT",
+                "text": "*Shift*",
                 "sp": "1",
-                "nextlayer": "alt"
+                "nextlayer": "shift"
               },
               {
                 "id": "U_00E6",
@@ -214,12 +214,12 @@
                 "text": "m"
               },
               {
-                "id": "T_ACCENT",
-                "text": "¯",
+                "id": "T_ACUTE",
+                "text": "'",
                 "sk": [
                   {
-                    "text": "'",
-                    "id": "T_ACUTE"
+                    "text": "¯",
+                    "id": "T_ACCENT"
                   }
                 ]
               },
@@ -279,11 +279,11 @@
             "id": 5,
             "key": [
               {
-                "id": "K_SHIFT",
-                "text": "*Shift*",
+                "id": "K_ALT",
+                "text": "*Alt*",
                 "width": "140",
                 "sp": "1",
-                "nextlayer": "shift"
+                "nextlayer": "alt"
               },
               {
                 "id": "K_LOPT",
@@ -509,10 +509,10 @@
             "id": 4,
             "key": [
               {
-                "id": "T_ALT",
-                "text": "*Alt*",
-                "sp": "1",
-                "nextlayer": "altshift"
+                "id": "K_SHIFT",
+                "text": "*Shift*",
+                "sp": "2",
+                "nextlayer": "default"
               },
               {
                 "id": "U_00C6",
@@ -535,13 +535,13 @@
                 "text": "M"
               },
               {
-                "id": "T_ACCENT",
-                "text": "¯",
+                "id": "T_ACUTE",
+                "text": "'",
                 "layer": "default",
                 "sk": [
                   {
-                    "text": "'",
-                    "id": "T_ACUTE",
+                    "text": "¯",
+                    "id": "T_ACCENT",
                     "layer": "default"
                   }
                 ]
@@ -564,11 +564,11 @@
             "id": 5,
             "key": [
               {
-                "id": "K_SHIFT",
-                "text": "*Shift*",
+                "id": "K_ALT",
+                "text": "*Alt*",
                 "width": "140",
-                "sp": "2",
-                "nextlayer": "default"
+                "sp": "1",
+                "nextlayer": "altshift"
               },
               {
                 "id": "K_LOPT",
@@ -814,10 +814,10 @@
             "id": 4,
             "key": [
               {
-                "id": "T_ALT",
-                "text": "*Alt*",
-                "sp": "2",
-                "nextlayer": "default"
+                "id": "K_SHIFT",
+                "text": "*Shift*",
+                "sp": "1",
+                "nextlayer": "altshift"
               },
               {
                 "id": "U_00E6",
@@ -844,13 +844,13 @@
                 "layer": "default"
               },
               {
-                "id": "T_ACUTE",
-                "text": "'",
+                "id": "T_ACCENT",
+                "text": "¯",
                 "layer": "default",
                 "sk": [
                   {
-                    "text": "¯",
-                    "id": "T_ACCENT",
+                    "text": "'",
+                    "id": "T_ACUTE",
                     "layer": "default"
                   }
                 ]
@@ -913,11 +913,11 @@
             "id": 5,
             "key": [
               {
-                "id": "K_SHIFT",
-                "text": "*Shift*",
+                "id": "K_ALT",
+                "text": "*Alt*",
                 "width": "140",
-                "sp": "1",
-                "nextlayer": "altshift"
+                "sp": "2",
+                "nextlayer": "default"
               },
               {
                 "id": "K_LOPT",
@@ -1177,10 +1177,10 @@
             "id": 4,
             "key": [
               {
-                "id": "T_ALT",
-                "text": "*Alt*",
+                "id": "K_SHIFT",
+                "text": "*Shift*",
                 "sp": "2",
-                "nextlayer": "shift"
+                "nextlayer": "alt"
               },
               {
                 "id": "U_00C6",
@@ -1207,13 +1207,13 @@
                 "layer": "shift"
               },
               {
-                "id": "T_ACUTE",
-                "text": "'",
+                "id": "T_ACCENT",
+                "text": "¯",
                 "layer": "default",
                 "sk": [
                   {
-                    "text": "¯",
-                    "id": "T_ACCENT",
+                    "text": "'",
+                    "id": "T_ACUTE",
                     "layer": "default"
                   }
                 ]
@@ -1238,11 +1238,11 @@
             "id": 5,
             "key": [
               {
-                "id": "K_SHIFT",
-                "text": "*Shift*",
+                "id": "K_ALT",
+                "text": "*Alt*",
                 "width": "140",
                 "sp": "2",
-                "nextlayer": "alt"
+                "nextlayer": "shift"
               },
               {
                 "id": "K_LOPT",
