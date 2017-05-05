@@ -7,34 +7,15 @@ begin Unicode > use(main)
 
 
 group(main) using keys
-store(dotless) "0"
-store(macron) "0"
-store(insular) "0"
-store(wynn) "0"
 store(plain) "aæeıiouycgAÆEIUOYCG"
 store(accented) "āǣēīīōūȳċġĀǢĒĪŌŪȲĊĠ"
 store(acute) "áǽéííóúýċġÁǼÉÍÓÚÝĊĠ" 
 store(voiced) "aáāæǽǣbdeéēgᵹġıiíīlmnoóōruúūwƿyýȳAÁĀÆǼBDEÉĒGꝽĠIÍĪLMNOÓŌRUÚŪWǷYÝȲǢ"
 any(voiced) "þ" + any(voiced) > index(voiced,1) "ð" index(voiced,3)
-"ᵹ" U+0307 "þ" + any(voiced) > "ᵹ" U+0307 "ð" index(voiced,4)   
-
-if(dotless = '0') + [T_dotless] > set(dotless = '1') save(dotless)
-if(dotless = '1') + [T_dotless] > set(dotless = '0') save(dotless)
-if(dotless = '1') + "i" > "ı"
-
-if(macron = '0') + [T_macron] > set(macron = '1') save(macron)
-if(macron = '1') + [T_macron] > set(macron = '0') save(macron)
-if(macron = '0') any(plain) + [T_ACCENT] > index(accented,2)
-if(macron = '1') any(plain) + [T_ACCENT] > index(acute,2)
+"ᵹ" U+0307 "þ" + any(voiced) > "ᵹ" U+0307 "ð" index(voiced,4)  
+any(plain) + [T_ACCENT] > index(accented,1)
+any(plain) + [T_ACUTE] > index(acute,1)
 "ᵹ" + [T_ACCENT] > "ᵹ" U+0307 
 "Ᵹ" + [T_ACCENT] > "Ᵹ" U+0307 
-
-if(insular = '0') + [T_insular] > set(insular = '1') save(insular)
-if(insular = '1') + [T_insular] > set(insular = '0') save(insular)
-if(insular = '1') + "g" > "ᵹ"
-if(insular = '1') + "G" > "Ᵹ"
-
-if(wynn = '0') + [T_wynn] > set(wynn = '1') save(wynn)
-if(wynn = '1') + [T_wynn] > set(wynn = '0') save(wynn)
-if(wynn = '1') + "w" > "ƿ"
-if(wynn = '1') + "W" > "Ƿ"
+"ᵹ" + [T_ACUTE] > "ᵹ" U+0307 
+"Ᵹ" + [T_ACUTE] > "Ᵹ" U+0307 

@@ -9,11 +9,6 @@
             "id": 1,
             "key": [
               {
-                "id": "T_dotless",
-                "text": "ı",
-                "sp": "2"
-              },
-              {
                 "id": "K_1",
                 "text": "1"
               },
@@ -59,13 +54,14 @@
             "id": 2,
             "key": [
               {
-                "id": "T_macron",
-                "text": "á",
-                "sp": "2"
-              },
-              {
                 "id": "K_W",
-                "text": "w"
+                "text": "w",
+                "sk": [
+                  {
+                    "text": "ƿ",
+                    "id": "U_01BF"
+                  }
+                ]
               },
               {
                 "id": "K_E",
@@ -94,12 +90,16 @@
                 ]
               },
               {
-                "id": "K_I",
+                "id": "U_0131",
                 "text": "i",
                 "sk": [
                   {
                     "text": "j",
                     "id": "K_J"
+                  },
+                  {
+                    "text": "i",
+                    "id": "K_I"
                   }
                 ]
               },
@@ -121,11 +121,6 @@
             "id": 3,
             "key": [
               {
-                "id": "T_insular",
-                "text": "ᵹ",
-                "sp": "2"
-              },
-              {
                 "id": "K_A",
                 "text": "a"
               },
@@ -144,7 +139,7 @@
                 "text": "d"
               },
               {
-                "id": "U_00F0",
+                "id": "U_00FE",
                 "text": "ð"
               },
               {
@@ -153,7 +148,13 @@
               },
               {
                 "id": "K_G",
-                "text": "g"
+                "text": "g",
+                "sk": [
+                  {
+                    "text": "ᵹ",
+                    "id": "U_1D79"
+                  }
+                ]
               },
               {
                 "id": "K_H",
@@ -186,11 +187,6 @@
           {
             "id": 4,
             "key": [
-              {
-                "id": "T_wynn",
-                "text": "ƿ",
-                "sp": "2"
-              },
               {
                 "id": "U_005B",
                 "text": "["
@@ -290,7 +286,7 @@
               {
                 "id": "K_SPACE",
                 "text": "",
-                "width": "610",
+                "width": "505",
                 "sp": "0"
               },
               {
@@ -316,59 +312,44 @@
             "id": 1,
             "key": [
               {
-                "id": "T_dotless",
-                "text": "ı",
-                "sp": "2"
-              },
-              {
                 "id": "K_1",
-                "text": "!",
-                "nextlayer": "default"
+                "text": "!"
               },
               {
                 "id": "U_002F",
-                "text": "/",
-                "nextlayer": "default"
+                "text": "/"
               },
               {
                 "id": "K_3",
-                "text": "#",
-                "nextlayer": "default"
+                "text": "#"
               },
               {
                 "id": "K_4",
-                "text": "$",
-                "nextlayer": "default"
+                "text": "$"
               },
               {
                 "id": "K_5",
-                "text": "%",
-                "nextlayer": "default"
+                "text": "%"
               },
               {
                 "id": "K_6",
-                "text": "^",
-                "nextlayer": "default"
+                "text": "^"
               },
               {
                 "id": "K_7",
-                "text": "&",
-                "nextlayer": "default"
+                "text": "&"
               },
               {
                 "id": "K_8",
-                "text": "*",
-                "nextlayer": "default"
+                "text": "*"
               },
               {
                 "id": "K_9",
-                "text": "(",
-                "nextlayer": "default"
+                "text": "("
               },
               {
                 "id": "K_0",
-                "text": ")",
-                "nextlayer": "default"
+                "text": ")"
               }
             ]
           },
@@ -376,74 +357,63 @@
             "id": 2,
             "key": [
               {
-                "id": "T_macron",
-                "text": "á",
-                "sp": "2"
-              },
-              {
                 "id": "K_W",
                 "text": "W",
                 "pad": "",
-                "nextlayer": "default"
+                "sk": [
+                  {
+                    "text": "Ƿ",
+                    "id": "U_01F7"
+                  }
+                ]
               },
               {
                 "id": "K_E",
-                "text": "E",
-                "nextlayer": "default"
+                "text": "E"
               },
               {
                 "id": "K_R",
-                "text": "R",
-                "nextlayer": "default"
+                "text": "R"
               },
               {
                 "id": "K_T",
-                "text": "T",
-                "nextlayer": "default"
+                "text": "T"
               },
               {
                 "id": "K_Y",
-                "text": "Y",
-                "nextlayer": "default"
+                "text": "Y"
               },
               {
                 "id": "K_U",
                 "text": "U",
-                "nextlayer": "default",
                 "sk": [
                   {
                     "text": "V",
-                    "id": "K_V",
-                    "nextlayer": "default"
+                    "id": "K_V"
                   }
                 ]
               },
               {
                 "id": "K_I",
                 "text": "I",
-                "nextlayer": "default",
                 "sk": [
                   {
                     "text": "J",
-                    "id": "K_J",
-                    "nextlayer": "default"
+                    "id": "K_J"
                   }
                 ]
               },
               {
                 "id": "K_O",
-                "text": "O",
-                "nextlayer": "default"
+                "text": "O"
               },
               {
                 "id": "K_P",
-                "text": "P",
-                "nextlayer": "default"
+                "text": "P"
               },
               {
                 "id": "U_003A",
-                "text": ":",
-                "nextlayer": "default"
+                "text": ":"
               }
             ]
           },
@@ -451,79 +421,67 @@
             "id": 3,
             "key": [
               {
-                "id": "T_insular",
-                "text": "ᵹ",
-                "sp": "2"
-              },
-              {
                 "id": "K_A",
                 "text": "A",
-                "pad": "",
-                "nextlayer": "default"
+                "pad": ""
               },
               {
                 "id": "K_S",
                 "text": "S",
-                "nextlayer": "default",
                 "sk": [
                   {
                     "text": "Z",
-                    "id": "K_Z",
-                    "nextlayer": "default"
+                    "id": "K_Z"
                   }
                 ]
               },
               {
                 "id": "K_D",
-                "text": "D",
-                "nextlayer": "default"
+                "text": "D"
               },
               {
                 "id": "U_00D0",
-                "text": "Ð",
-                "nextlayer": "default"
+                "text": "Ð"
               },
               {
                 "id": "K_F",
-                "text": "F",
-                "nextlayer": "default"
+                "text": "F"
               },
               {
                 "id": "K_G",
                 "text": "G",
-                "nextlayer": "default"
+                "sk": [
+                  {
+                    "text": "Ᵹ",
+                    "id": "U_A77D"
+                  }
+                ]
               },
               {
                 "id": "K_H",
-                "text": "H",
-                "nextlayer": "default"
+                "text": "H"
               },
               {
                 "id": "K_C",
                 "text": "C",
-                "nextlayer": "default",
                 "sk": [
                   {
                     "text": "K",
-                    "id": "K_K",
-                    "nextlayer": "default"
+                    "id": "K_K"
                   },
                   {
                     "text": "Q",
-                    "id": "K_Q",
-                    "nextlayer": "default"
+                    "id": "K_Q"
                   }
                 ]
               },
               {
                 "id": "K_L",
-                "text": "L",
-                "nextlayer": "default"
+                "text": "L"
               },
               {
                 "id": "U_0022",
-                "text": "\"",
-                "nextlayer": "default"
+                "text": "\""
               }
             ]
           },
@@ -531,47 +489,36 @@
             "id": 4,
             "key": [
               {
-                "id": "T_wynn",
-                "text": "ƿ",
-                "sp": "2"
-              },
-              {
                 "id": "U_005D",
                 "text": "]"
               },
               {
                 "id": "U_00C6",
-                "text": "Æ",
-                "nextlayer": "default"
+                "text": "Æ"
               },
               {
                 "id": "K_X",
-                "text": "X",
-                "nextlayer": "default"
+                "text": "X"
               },
               {
                 "id": "K_B",
-                "text": "B",
-                "nextlayer": "default"
+                "text": "B"
               },
               {
                 "id": "K_N",
-                "text": "N",
-                "nextlayer": "default"
+                "text": "N"
               },
               {
                 "id": "K_M",
-                "text": "M",
-                "nextlayer": "default"
+                "text": "M"
               },
               {
-                "id": "T_ACCENT",
+                "id": "T_ACUTE",
                 "text": "¯"
               },
               {
                 "id": "K_COMMA",
-                "text": "<",
-                "nextlayer": "default"
+                "text": "<"
               },
               {
                 "id": "K_PERIOD",
@@ -602,7 +549,7 @@
               {
                 "id": "K_SPACE",
                 "text": "",
-                "width": "610",
+                "width": "505",
                 "sp": "0",
                 "nextlayer": "default"
               },
