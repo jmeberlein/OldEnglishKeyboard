@@ -194,9 +194,14 @@
                 "nextlayer": "shift"
               },
               {
-                "id": "K_COMMA",
-                "text": ",",
-                "nextlayer": "shift"
+                "id": "T_ACUTE",
+                "text": "'",
+                "sk": [
+                  {
+                    "text": "¯",
+                    "id": "T_ACCENT"
+                  }
+                ]
               },
               {
                 "id": "U_00E6",
@@ -219,14 +224,8 @@
                 "text": "m"
               },
               {
-                "id": "T_ACUTE",
-                "text": "'",
-                "sk": [
-                  {
-                    "text": "¯",
-                    "id": "T_ACCENT"
-                  }
-                ]
+                "id": "K_COMMA",
+                "text": ","
               },
               {
                 "id": "K_PERIOD",
@@ -504,9 +503,16 @@
                 "nextlayer": "default"
               },
               {
-                "id": "K_COMMA",
-                "text": "<",
-                "nextlayer": "default"
+                "id": "T_ACUTE",
+                "text": "'",
+                "layer": "default",
+                "sk": [
+                  {
+                    "text": "¯",
+                    "id": "T_ACCENT",
+                    "layer": "default"
+                  }
+                ]
               },
               {
                 "id": "U_00C6",
@@ -529,16 +535,8 @@
                 "text": "M"
               },
               {
-                "id": "T_ACUTE",
-                "text": "'",
-                "layer": "default",
-                "sk": [
-                  {
-                    "text": "¯",
-                    "id": "T_ACCENT",
-                    "layer": "default"
-                  }
-                ]
+                "id": "K_COMMA",
+                "text": "<"
               },
               {
                 "id": "K_PERIOD",
