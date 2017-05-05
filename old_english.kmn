@@ -7,7 +7,7 @@ begin Unicode > use(main)
 
 
 group(main) using keys
-store(plain) "aæeıiouycgAÆEIUOYCG"
+store(plain) "aæeıiouycgAÆEIOUYCG"
 store(accented) "āǣēīīōūȳċġĀǢĒĪŌŪȲĊĠ"
 store(acute) "áǽéííóúýċġÁǼÉÍÓÚÝĊĠ" 
 store(voiced) "aáāæǽǣbdeéēgᵹġıiíīlmnoóōruúūwƿyýȳAÁĀÆǼBDEÉĒGꝽĠIÍĪLMNOÓŌRUÚŪWǷYÝȲǢ"
