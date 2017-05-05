@@ -224,10 +224,6 @@
                 ]
               },
               {
-                "id": "K_COMMA",
-                "text": ","
-              },
-              {
                 "id": "K_PERIOD",
                 "text": ".",
                 "sk": [
@@ -272,6 +268,10 @@
               {
                 "id": "U_0040",
                 "text": "@"
+              },
+              {
+                "id": "U_002D",
+                "text": "-"
               }
             ]
           },
@@ -358,6 +358,10 @@
                   {
                     "text": "[",
                     "id": "U_005B"
+                  },
+                  {
+                    "text": "<",
+                    "id": "U_003C"
                   }
                 ]
               },
@@ -368,6 +372,10 @@
                   {
                     "text": "]",
                     "id": "U_005D"
+                  },
+                  {
+                    "text": ">",
+                    "id": "U_003E"
                   }
                 ]
               }
@@ -548,15 +556,16 @@
               },
               {
                 "id": "K_COMMA",
-                "text": "<"
-              },
-              {
-                "id": "K_PERIOD",
-                "text": ">"
+                "text": ",",
+                "layer": "default"
               },
               {
                 "id": "U_003F",
                 "text": "?"
+              },
+              {
+                "id": "U_005F",
+                "text": "_"
               }
             ]
           },
@@ -856,11 +865,6 @@
                 ]
               },
               {
-                "id": "K_COMMA",
-                "text": ",",
-                "layer": "default"
-              },
-              {
                 "id": "K_PERIOD",
                 "text": ".",
                 "layer": "default",
@@ -906,6 +910,10 @@
               {
                 "id": "U_0040",
                 "text": "@"
+              },
+              {
+                "id": "U_002D",
+                "text": "-"
               }
             ]
           },
@@ -1002,6 +1010,10 @@
                     "text": "[",
                     "id": "U_005B",
                     "layer": "shift"
+                  },
+                  {
+                    "text": "<",
+                    "id": "U_003C"
                   }
                 ]
               },
@@ -1014,6 +1026,10 @@
                     "text": "]",
                     "id": "U_005D",
                     "layer": "shift"
+                  },
+                  {
+                    "text": ">",
+                    "id": "U_003E"
                   }
                 ]
               }
@@ -1220,17 +1236,16 @@
               },
               {
                 "id": "K_COMMA",
-                "text": "<",
-                "layer": "shift"
-              },
-              {
-                "id": "K_PERIOD",
-                "text": ">",
-                "layer": "shift"
+                "text": ",",
+                "layer": "default"
               },
               {
                 "id": "U_003F",
                 "text": "?"
+              },
+              {
+                "id": "U_005F",
+                "text": "_"
               }
             ]
           },
