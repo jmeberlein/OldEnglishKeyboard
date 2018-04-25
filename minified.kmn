@@ -1,0 +1,29 @@
+﻿store(&VERSION) '9.0'
+store(&TARGETS) 'iphone ipad androidphone androidtablet mobile tablet'
+store(&LAYOUTFILE) 'Modern English v2-layout.js'
+store(&NAME) 'Westron (minified)'
+begin Unicode > use(main)
+
+
+group(main) using keys
+store(plain) "aæcdeghijlnorstuüwyzAÆCDEGHIJLNORSTUÜWYZ"
+store(acute) "áǽćdéghíjlńóŕśtúǘẃýźÁǼĆDÉGHÍJLŃÓŔŚTÚǗẂÝŹ"  
+store(caron) "ăæčďĕǧhĭjľňŏřšťŭǚwyžĂÆČĎĔǦHĬJĽŇŎŘŠŤǓǙWYŽ" 
+store(cedil) "ąæçdęghįjlnǫrșțųüwyzĄÆÇDĘGHĮJLNǪRȘȚŲÜWYZ"
+store(circu) "âæĉdêĝĥîĵlnôrŝtuüŵyzÂÆĈDÊĜĤÎĴLNÔRŜTÛÜŴŶZ" 
+store(diaer) "äæcdëghïjlnörstüüẅÿzÄÆCDËGHÏJLNÖRSTÜÜẄŸZ"
+store(grave) "àæcdèghìjlnòrstùǜẁỳzÀÆCDÈGHÌJLNÒRSTÙǛẀỲZ"
+store(macrn) "āǣcdēghījlnōrstūǖwyzĀǢCDĒGHĪJLNŌRSTŪǕWYZ" 
+store(overd) "aæċdeġhıjlnorstuüwyżAÆĊDEĠHİJLNORSTUÜWYŻ"
+store(tilde) "ãæcdẽghĩjlñõrstũüwỹzÃÆCDẼGHĨJLÑÕRSTŨÜWỸZ"
+                                                                 
+
+any(plain) + [T_acute] > index(acute,1)
+any(plain) + [T_caron] > index(caron,1)
+any(plain) + [T_cedilla] > index(cedil,1)
+any(plain) + [T_circumflex] > index(circu,1)
+any(plain) + [T_diaeresis] > index(diaer,1)
+any(plain) + [T_grave] > index(grave,1)
+any(plain) + [T_macron] > index(macrn,1)
+any(plain) + [T_dot] > index(overd,1)
+any(plain) + [T_tilde] > index(tilde,1)

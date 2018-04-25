@@ -1,0 +1,1 @@
+KeymanWeb.KRS(new Stub_Keyboard_minified()); function Stub_Keyboard_minified() {this.KF="minified-1.0.js";this.KI="Keyboard_minified";this.KN="Westron (minified)";}
