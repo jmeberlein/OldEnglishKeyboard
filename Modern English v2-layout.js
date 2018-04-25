@@ -58,7 +58,8 @@
                   },
                   {
                     "text": "¯",
-                    "id": "T_macron"
+                    "id": "T_macron",
+                    "sp": "8"
                   }
                 ]
               }
@@ -517,11 +518,17 @@
                 "sk": [
                   {
                     "text": "´",
-                    "id": "T_acute"
+                    "id": "T_acute",
+                    "sp": "8"
                   },
                   {
                     "text": "`",
-                    "id": "T_grave"
+                    "id": "U_0060"
+                  },
+                  {
+                    "text": "`",
+                    "id": "T_grave",
+                    "sp": "8"
                   }
                 ]
               },
@@ -619,7 +626,8 @@
                 "sk": [
                   {
                     "text": "¸",
-                    "id": "T_cedilla"
+                    "id": "T_cedilla",
+                    "sp": "8"
                   }
                 ]
               },
@@ -629,7 +637,8 @@
                 "sk": [
                   {
                     "text": "·",
-                    "id": "T_dot"
+                    "id": "T_dot",
+                    "sp": "8"
                   }
                 ]
               },
@@ -740,11 +749,14 @@
                 "sk": [
                   {
                     "text": "ˆ",
-                    "id": "T_circumflex"
+                    "id": "T_circumflex",
+                    "sp": "8",
+                    "layer": "default"
                   },
                   {
                     "text": "ˇ",
                     "id": "T_caron",
+                    "sp": "8",
                     "layer": "default"
                   }
                 ]
@@ -1269,6 +1281,7 @@
                   {
                     "text": "¨",
                     "id": "T_diaeresis",
+                    "sp": "8",
                     "layer": "default"
                   }
                 ]
@@ -1280,6 +1293,7 @@
                   {
                     "text": "˜",
                     "id": "T_tilde",
+                    "sp": "8",
                     "layer": "default"
                   }
                 ]
