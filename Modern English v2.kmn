@@ -1,7 +1,7 @@
 ﻿store(&VERSION) '9.0'
-store(&NAME) 'Adunaic'
 store(&TARGETS) 'iphone ipad androidphone androidtablet mobile tablet'
 store(&LAYOUTFILE) 'Modern English v2-layout.js'
+store(&NAME) 'Westron'
 begin Unicode > use(main)
 
 

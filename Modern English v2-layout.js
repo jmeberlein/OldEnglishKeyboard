@@ -744,7 +744,8 @@
                   },
                   {
                     "text": "ˇ",
-                    "id": "T_caron"
+                    "id": "T_caron",
+                    "layer": "default"
                   }
                 ]
               },
@@ -1267,7 +1268,8 @@
                 "sk": [
                   {
                     "text": "¨",
-                    "id": "T_diaeresis"
+                    "id": "T_diaeresis",
+                    "layer": "default"
                   }
                 ]
               },
@@ -1277,7 +1279,8 @@
                 "sk": [
                   {
                     "text": "˜",
-                    "id": "T_tilde"
+                    "id": "T_tilde",
+                    "layer": "default"
                   }
                 ]
               }
