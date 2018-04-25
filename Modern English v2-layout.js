@@ -1389,7 +1389,7 @@
                 "text": "*Shift*",
                 "width": "120",
                 "sp": "2",
-                "nextlayer": "shift"
+                "nextlayer": "default"
               },
               {
                 "id": "K_LOPT",
