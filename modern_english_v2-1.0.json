@@ -1,15 +1,15 @@
-{
+﻿{
   "options" : {
     "device" : "any",
-    "keyboardBaseUri" : "http://your-host-here/keyboard-path/",
-    "fontBaseUri" : "http://your-host-here/font-path/"
+    "keyboardBaseUri" : "https://raw.githubusercontent.com/jmeberlein/OldEnglishKeyboard/master/",
+    "fontBaseUri" : "https://raw.githubusercontent.com/jmeberlein/OldEnglishKeyboard/master/"
   },
   "keyboard" : {
     "id" : "modern_english_v2",
-    "name" : "Modern English v2",
+    "name" : "Sindarin",
     "filename" : "modern_english_v2-1.0.js",
     "version" : "1.0",
-    "lastModified" : "2018-04-25T10:58:16+00:00",
+    "lastModified" : "2018-04-25T11:49:44.459-05:00",
     "languages" : [
       ]
   }
